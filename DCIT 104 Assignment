@@ -1,0 +1,21 @@
+Using Python
+Question 1
+
+sumOfEvenNumbers = sum(range(1,10001,2))
+numberOfEvenNumbers= len(list(range(1,10001,2)))
+s = print(sumOfEvenNumbers)
+n = print(numberOfEvenNumbers)
+averageOfEvenNumbers =sumOfEvenNumbers/numberOfEvenNumbers
+print("The average of all even integers between 1 and 10000 is {}".format(averageOfEvenNumbers))
+
+Question 2
+numberlessthan = int()
+for n in range(number less than + 1)
+      if n > 1:  
+        for i in range (2, number):  
+            if (n % i) == 0:  
+                break  
+        else:  
+            print (n)
+sumOfPrimeNumbers = sum(n)
+print("The sum of all prime numbers is{}".format(sumOfPrimeNumbers))
